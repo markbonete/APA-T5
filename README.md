@@ -1,6 +1,6 @@
 # Sonido estéreo y ficheros WAVE
 
-## Nom i cognoms
+## Mark Bonete Ventura
 
 ## El formato WAVE
 
